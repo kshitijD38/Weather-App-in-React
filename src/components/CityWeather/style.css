@@ -1,0 +1,27 @@
+h1{
+    color: black;
+}
+h2, h3, h4, h5, h6{
+    color: black;
+}
+.temp{
+    font-size: 100px;
+}
+strong{
+    color: teal;
+}
+.container{
+    background-color: lightblue;
+}
+.description{
+    font-size: 75px;
+}
+.all{
+    font-size: 75px;
+}
+.speed{
+    font-size: 75px;
+}
+.visibility{
+    font-size: 75px;
+}
